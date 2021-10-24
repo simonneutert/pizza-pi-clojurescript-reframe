@@ -1,7 +1,6 @@
 # clojurescript-pizzapi
 
-A [re-frame](https://github.com/day8/re-frame) application designed to ... well, that part is up to
-you.
+A [re-frame](https://github.com/day8/re-frame) application designed to ... well, calculate the price of pizza per square meter. I know, this might not be a problem many people have 😅 but it was a nice little excercise.
 
 ## Getting Started
 
