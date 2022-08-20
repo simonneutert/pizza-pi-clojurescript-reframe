@@ -100,3 +100,4 @@ backup/clojure-lsp
 # Calva dev
 clojure.tmLanguage.json
 .cpcache/
+.calva/output-window/
