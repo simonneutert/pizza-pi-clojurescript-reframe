@@ -5,7 +5,6 @@
    [clojurescript-pizzapi.routes :as routes]
    [clojurescript-pizzapi.subs :as subs]))
 
-
 ;; home
 
 (defn home-panel []

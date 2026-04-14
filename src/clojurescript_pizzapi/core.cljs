@@ -7,7 +7,6 @@
    [clojurescript-pizzapi.views :as views]
    [clojurescript-pizzapi.config :as config]))
 
-
 (defn dev-setup []
   (when config/debug?
     (println "dev mode")))
